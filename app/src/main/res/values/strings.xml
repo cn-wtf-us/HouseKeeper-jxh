@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">HouseKeeper</string>
+    <string name="app_name">通讯大全</string>
+    <String name="action_settings">Settings</String>
+    <String name="Hello World">Hello World!</String>
+    <String name="tel_title">一站式号码服务平台</String>
+
 </resources>
